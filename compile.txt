@@ -1,3 +1,6 @@
+Can use the name flag to give it a custom name
+pyinstaller --noconsole --onedir --name "Stable App" --add-data "index.html;." --add-data "assets;assets" main3.py
+
 pyinstaller --noconsole --onedir --add-data "index.html;." --add-data "assets;assets" main3.py
 
 need to add temp folder in python for when comp with pyinstaller

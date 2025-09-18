@@ -1,4 +1,4 @@
-import webview
+import webview # pip install pywebview
 import os
 import sys
 from tkinter import filedialog
